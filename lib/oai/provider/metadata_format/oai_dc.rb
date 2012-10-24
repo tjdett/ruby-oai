@@ -1,5 +1,4 @@
 module OAI::Provider::Metadata
-
   # Simple implementation of the Dublin Core metadata format.
   class DublinCore < Format
 
